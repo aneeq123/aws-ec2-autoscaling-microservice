@@ -93,10 +93,11 @@ Both scale-out and scale-in behaviour were confirmed using CloudWatch graphs and
 - IDE such as Eclipse, IntelliJ, or VS Code
 
 To run locally:
-1. Create an Amazon RDS MySQL database
-2. Update the database endpoint, username, and password in `application.yml`
-3. Build the project using `mvn clean package`
-4. Run the generated JAR
+1. Create an Amazon RDS MySQL database  
+2. Copy `application.yml.example` to `application.yml`  
+3. Update the database endpoint, username, and password  
+4. Build the project using `mvn clean package`  
+5. Run the generated JAR  
 
 ---
 

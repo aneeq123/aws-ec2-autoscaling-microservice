@@ -102,11 +102,11 @@ To run locally:
 
 ## Repository Structure
 
-couponservice/     Spring Boot application source code
-scripts/           EC2 User Data script and CPU stress test
-docs/              Project documentation (PDF)
-.gitignore
-README.md
+    couponservice/     Spring Boot application source code
+    scripts/           EC2 User Data script and CPU stress test
+    docs/              Project documentation (PDF)
+    .gitignore         Git ignore rules
+    README.md          Project overview and documentation
 
 
 ## Documentation

@@ -1,0 +1,21 @@
+# Secrets / credentials
+application.yml
+*.pem
+*.key
+
+# Maven build output
+target/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE / Eclipse / IntelliJ
+.classpath
+.project
+.settings/
+.idea/
+*.iml
